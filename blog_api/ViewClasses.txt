@@ -1,0 +1,4 @@
+#CreateAPIView
+Used for create-only endpoints
+#ListAPIVIEW
+used for read-only endpoints to represent a collection of model instances
